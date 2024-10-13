@@ -1,9 +1,9 @@
 # Create Customer
 
-Creates a new [Customer][] in the Local Db
+Creates a new [Customers][] in the Local Db
 
 ## Endpoint:
 
--   <code>POST</code> [api/v2/customers/local-db](/src/create-customer-endpoint.md)
+-   <code>POST</code> [api/v2/customers/local-db](create-customer-endpoint.md)
 
-[Customer]: /src/customer-entity.md
+[Customers]: customer-entity.md

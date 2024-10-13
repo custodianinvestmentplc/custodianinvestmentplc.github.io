@@ -1,8 +1,6 @@
-{% raw %}
-
 # Get Customers from Local Database
 
-This method will retreive a paginated collection of [Customer][] from the local database.
+This method will retreive a paginated collection of [Customers][] from the local database.
 
 ## Http Request
 
@@ -21,4 +19,4 @@ This method will retreive a paginated collection of [Customer][] from the local 
 | ------------- | ------ | ------------------------------ |
 | Authorization | string | Bearer Token. This is required |
 
-[Customer]: customer-entity.md
+[Customers]: customer-entity.md
