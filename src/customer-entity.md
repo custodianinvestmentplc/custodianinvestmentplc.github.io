@@ -1,6 +1,6 @@
 ### Customer Entity Class
 
-```c#
+```csharp
 public class CustomerEntity
 {
     public int Id { get; set; }
