@@ -2,7 +2,7 @@
 
 Request Payload
 
-```json
+```
 {
     "firstName": "string",
     "userName": "string",

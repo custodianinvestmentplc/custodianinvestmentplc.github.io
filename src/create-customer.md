@@ -1,6 +1,6 @@
 # Create Customer
 
-Creates a new [Customer] in the Local Db
+Creates a new [Customer][] in the Local Db
 
 ## Endpoint:
 

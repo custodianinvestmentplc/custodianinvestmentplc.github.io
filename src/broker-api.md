@@ -1,6 +1,6 @@
 Below is a sample JWT token returned by the Broker API when a Broker logs in
 
-```json
+```
 {
     "http://schemas.xmlsoap.org/ws/2005/05/identity/claims/emailaddress": "adedoyinolorunfemi2020@gmail.com",
     "brokerId": "B1017/HO",

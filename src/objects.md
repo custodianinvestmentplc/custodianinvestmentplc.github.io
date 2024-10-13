@@ -1,6 +1,6 @@
 ## AuthenticatedUserDto
 
-```c#
+```csharp
 public class AuthenticatedUserDto
 {
     public string? Id { get; set; }
@@ -23,7 +23,7 @@ However, if the currently logged in user is a Broker then the following properti
 -   Email - this property will be set to the Broker email
 -   BrokerId - this will be set to the ABS BrokerCode. This is set from the claim of type "http://schemas.microsoft.com/ws/2008/06/identity/claims/groupsid"
 
-```c#
+```csharp
 protected AuthenticatedUserDto GetAuthenticatedUserDetails()
 {
     AuthenticatedUserDto authenticatedUserDetails = new();
