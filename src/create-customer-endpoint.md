@@ -2,6 +2,27 @@
 
 Request Payload
 
+````markdown
+{% raw %}
+
+```json
+{
+    "firstName": "string",
+    "userName": "string",
+    "lastName": "string",
+    "email": "string",
+    "phoneNumber": "string",
+    "address": "string",
+    "customerType": "Individual",
+    "dateOfBirth": "2024-10-12T12:00:33.345Z",
+    "taxId": "string"
+}
+```
+
+{% endraw %}
+
+```
+
 The following fields are mandatory:
 
 -   firstName
@@ -16,3 +37,5 @@ Other key points
 ### Business Logic
 
 -   Only a Brker can create a customer
+```
+````
