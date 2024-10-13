@@ -1,3 +1,5 @@
+{% raw %}
+
 # Get Customers from Local Database
 
 This method will retreive a paginated collection of [Customer] from the local database.
@@ -19,4 +21,4 @@ This method will retreive a paginated collection of [Customer] from the local da
 | ------------- | ------ | ------------------------------ |
 | Authorization | string | Bearer Token. This is required |
 
-[Customer]: /src/customer-entity.md
+[Customer]: customer-entity.md

@@ -18,6 +18,6 @@ Insured Database stored customers that have been authorized by Custodian - and t
 | [Get Customers Local Db]   | [Customer] Collection | Retrieves a paginated list of customers from the local database |
 | [Get Customers Insured DB] | [Customer] Collection | Retrieves a paginated list of customers from Insured database   |
 
-[Customer]: /src/customer-entity.md
-[Get Customers Local Db]: /src/get-customers-local-db.md
-[Get Customers Insured DB]: /src/get-customers-insured-db.md
+[Customer]: customer-entity.md
+[Get Customers Local Db]: get-customers-local-db.md
+[Get Customers Insured DB]: get-customers-insured-db.md
