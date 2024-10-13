@@ -2,20 +2,6 @@
 
 Request Payload
 
-```
-{
-    "firstName": "string",
-    "userName": "string",
-    "lastName": "string",
-    "email": "string",
-    "phoneNumber": "string",
-    "address": "string",
-    "customerType": "Individual",
-    "dateOfBirth": "2024-10-12T12:00:33.345Z",
-    "taxId": "string"
-}
-```
-
 The following fields are mandatory:
 
 -   firstName
