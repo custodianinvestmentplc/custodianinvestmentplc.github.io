@@ -13,11 +13,11 @@ Insured Database stored customers that have been authorized by Custodian - and t
 
 ## Methods
 
-| Method                     | Return Type              | Description                                                     |
-| -------------------------- | ------------------------ | --------------------------------------------------------------- |
-| [Get Customers Local Db]   | [Customers][] Collection | Retrieves a paginated list of customers from the local database |
-| [Get Customers Insured DB] | [Customers][] Collection | Retrieves a paginated list of customers from Insured database   |
+| Method                       | Return Type              | Description                                                     |
+| ---------------------------- | ------------------------ | --------------------------------------------------------------- |
+| [Get Customers Local Db][]   | [Customers][] Collection | Retrieves a paginated list of customers from the local database |
+| [Get Customers Insured DB][] | [Customers][] Collection | Retrieves a paginated list of customers from Insured database   |
 
-[Customers]: /src/customer-entity.md
+[Customers]: customer-entity.md
 [Get Customers Local Db]: get-customers-local-db.md
 [Get Customers Insured DB]: get-customers-insured-db.md
