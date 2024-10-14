@@ -4,7 +4,7 @@ This method will retreive a paginated collection of [Customers][] from the local
 
 ## Http Request
 
--   <code>GET</code> /api/v2/customers/local-db?page-number=1&page-size=10
+-   <code>GET</code> /api/v2/customers/local-db?pageNumber=1&pageSize=10
 
 ### Query Parameters
 
