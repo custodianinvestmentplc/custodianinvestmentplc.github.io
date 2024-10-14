@@ -19,4 +19,24 @@ This method will retreive a paginated collection of [Customers][] from the local
 | ------------- | ------ | ------------------------------ |
 | Authorization | string | Bearer Token. This is required |
 
+### Response
+
+```json
+{
+    "http_status_code": 200,
+    "status_message": "Successful",
+    "response_data": [
+        {
+            "insuredNumber": "",
+            "firstName": "Hamster LTD",
+            "otherName": "",
+            "fullName": "Hamster LTD ",
+            "insuredType": "Corporate",
+            "insuredEmail": "hamster@gmail.com",
+            "insuredTelNum": "09123333434"
+        }
+    ]
+}
+```
+
 [Customers]: customer-entity.md
